@@ -1,0 +1,19 @@
+﻿Customer_id,Name,Age,Subscription,Monthly_fee,Login_days,Support_calls,Churned,,Churned Average Login Days,Stayed Average Login Days
+1,Alice,25,Basic,10,20,1,No,,2,18.75
+2,Bob,35,Premium,50,2,5,Yes,,Churned Average Support Calls,Stayed Average Support Calls
+3,Carol,28,Basic,10,15,0,No,,6.5,0.5
+4,Dave,45,Premium,50,1,8,Yes,,,
+5,Eve,30,Basic,10,18,1,No,,,
+6,Frank,52,Premium,50,3,6,Yes,,,
+7,Grace,22,Basic,10,22,0,No,,,
+8,Harry,40,Premium,50,2,7,Yes,,,
+,,,,,,,,,,
+Key Findings:,,,,,,,,,,
+1.Low login days leads to customer churn,,,,,,,,,,
+2.High support calls indicates customer dissatisfaction,,,,,,,,,,
+3. Premium customers churn more than Basic customers,,,,,,,,,,
+,,,,,,,,,,
+Rccomendations:,,,,,,,,,,
+1.Send reminder emails to inactive users,,,,,,,,,,
+2. Improve product quality to reduce support calls,,,,,,,,,,
+3. Offer discounts to Premium customers at risk of leaving,,,,,,,,,,
